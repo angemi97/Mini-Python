@@ -52,8 +52,8 @@ def funcwithdef(name,university="aueb"):
 
 * Open cmd and navigate to where your files are located. From there do the following:
     * `sablecc minipython.grammar`
-    * `javac ASTTest1.java`
-    * `java ASTTest1 example.py`
+    * `javac ASTTest.java`
+    * `java ASTTest example.py`
 * The AST is printed in your terminal.
 
 ## **Semantic Analysis**
